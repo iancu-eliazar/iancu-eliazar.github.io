@@ -155,6 +155,7 @@ article h3 {
 
 .float-left{
     width:25%;
+    margin:10px;
     float:left;
 }
 
